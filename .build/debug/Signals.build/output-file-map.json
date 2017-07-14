@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Signals.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BlueSignals.git--8436711211398690375/Sources/Signals.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Signals.build/Signals.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Signals.build/Signals.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Signals.build/Signals~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Signals.build/Signals.swiftdeps"
+  }
+}

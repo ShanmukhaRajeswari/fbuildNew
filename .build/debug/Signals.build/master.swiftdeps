@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "2697df60fbd7b26f1b4777d1d2ff5813"
+build_time: [553277533, 784340000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BlueSignals.git--8436711211398690375/Sources/Signals.swift": [553277519, 0]

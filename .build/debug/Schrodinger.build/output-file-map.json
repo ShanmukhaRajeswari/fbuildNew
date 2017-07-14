@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Schrodinger.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Schrodinger.git-7090656973521801089/Sources/Schrodinger.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Schrodinger.build/Schrodinger.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Schrodinger.build/Schrodinger.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Schrodinger.build/Schrodinger~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Schrodinger.build/Schrodinger.swiftdeps"
+  }
+}

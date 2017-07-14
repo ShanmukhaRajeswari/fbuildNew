@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/PathKit.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/PathKit.git-2667401822644985089/Sources/PathKit.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/PathKit.build/PathKit.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/PathKit.build/PathKit.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/PathKit.build/PathKit~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/PathKit.build/PathKit.swiftdeps"
+  }
+}

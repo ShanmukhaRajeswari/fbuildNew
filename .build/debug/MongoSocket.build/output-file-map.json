@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/MongoSocket/MongoTCP.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/MongoTCP.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/MongoTCP.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/MongoTCP~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/MongoTCP.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/MongoSocket/Socket.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/Socket.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/Socket.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/MongoSocket.build/Socket.swiftdeps"
+  }
+}

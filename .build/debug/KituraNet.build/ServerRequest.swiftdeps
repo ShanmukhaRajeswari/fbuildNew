@@ -1,0 +1,76 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ServerRequest"
+provides-nominal:
+- "P9KituraNet13ServerRequest"
+provides-member:
+- ["P9KituraNet13ServerRequest", ""]
+depends-top-level:
+- "Data"
+- "HeadersContainer"
+- "Int"
+- "ServerRequest"
+- "String"
+- "UInt16"
+- "URL"
+- "URLComponents"
+depends-member:
+- ["P9KituraNet13ServerRequest", "Data"]
+- ["P9KituraNet13ServerRequest", "HeadersContainer"]
+- ["P9KituraNet13ServerRequest", "Int"]
+- ["P9KituraNet13ServerRequest", "String"]
+- ["P9KituraNet13ServerRequest", "UInt16"]
+- ["P9KituraNet13ServerRequest", "URL"]
+- ["P9KituraNet13ServerRequest", "URLComponents"]
+- ["P9KituraNet13ServerRequest", "headers"]
+- ["P9KituraNet13ServerRequest", "httpVersionMajor"]
+- ["P9KituraNet13ServerRequest", "httpVersionMinor"]
+- ["P9KituraNet13ServerRequest", "method"]
+- ["P9KituraNet13ServerRequest", "read"]
+- ["P9KituraNet13ServerRequest", "readAllData"]
+- ["P9KituraNet13ServerRequest", "readString"]
+- ["P9KituraNet13ServerRequest", "remoteAddress"]
+- ["P9KituraNet13ServerRequest", "url"]
+- ["P9KituraNet13ServerRequest", "urlComponents"]
+- ["P9KituraNet13ServerRequest", "urlString"]
+- ["P9KituraNet13ServerRequest", "urlURL"]
+depends-nominal:
+- "P9KituraNet13ServerRequest"
+depends-dynamic-lookup:
+depends-external:
+- "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/SSLService.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/Signals.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/Socket.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/CEpoll.git-5229717094603679219/shim.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-net.git-1846915712576750465/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-net.git-1846915712576750465/Sources/CHTTPParser/include/http_parser.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-net.git-1846915712576750465/Sources/CHTTPParser/include/utils.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/LibcShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/FoundationShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/HeapObject.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/RefCount.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/Visibility.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/OpenSSL.git-7060173504312001730/module.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/CCurl.git--4003544704590769673/module.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/CEpoll.git-5229717094603679219/module.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/debug/CHTTPParser.build/module.modulemap"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/dispatch/module.modulemap"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/module.modulemap"
+interface-hash: "c41335e8f3cce5e687c088beba230d6b"

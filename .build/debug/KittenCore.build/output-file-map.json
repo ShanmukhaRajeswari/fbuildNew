@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/KittenCore.git--65859100913919148/Sources/NumberConversion.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/NumberConversion.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/NumberConversion.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/NumberConversion~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/NumberConversion.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/KittenCore.git--65859100913919148/Sources/KittenString.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/KittenString.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/KittenString.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/KittenString~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/KittenString.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/KittenCore.git--65859100913919148/Sources/Core.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/Core.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/Core.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/Core~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KittenCore.build/Core.swiftdeps"
+  }
+}

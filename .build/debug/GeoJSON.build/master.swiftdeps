@@ -1,0 +1,15 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "ad4e1ee67f853aba2b5702101a8da222"
+build_time: [553277558, 412149000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/GeoJSONError.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/Polygon.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/MultiLineString.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/CoordinateReferenceSystem.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/Position.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/MultiPolygon.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/LineString.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/Point.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/MultiPoint.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/GeoJsonObjectType.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/ValueConvertible.swift": [553277518, 0]

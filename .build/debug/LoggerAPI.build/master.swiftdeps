@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "3133181e7321125a4c80e71fcb24f762"
+build_time: [553277533, 785327000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/LoggerAPI.git--4693696810475601384/Sources/LoggerAPI/Logger.swift": [553277519, 0]

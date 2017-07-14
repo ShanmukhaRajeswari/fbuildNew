@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Context.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Context.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Context.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Context~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Context.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Reporter.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporter.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporter.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporter~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporter.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/GlobalContext.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/GlobalContext.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/GlobalContext.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/GlobalContext~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/GlobalContext.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Failure.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Failure.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Failure.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Failure~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Failure.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Reporters.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporters.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporters.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporters~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Reporters.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Case.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Case.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Case.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Case~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Case.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Expectation.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Expectation.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Expectation.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Expectation~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Expectation.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Spectre.git--8986430977882433239/Sources/Global.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Global.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Global.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Global~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Spectre.build/Global.swiftdeps"
+  }
+}

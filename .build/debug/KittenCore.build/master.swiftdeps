@@ -1,0 +1,7 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "ceed2a2ecfa8290ef0bc4d5110a2f3b6"
+build_time: [553277534, 748436000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/KittenCore.git--65859100913919148/Sources/NumberConversion.swift": [553277532, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/KittenCore.git--65859100913919148/Sources/KittenString.swift": [553277532, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/KittenCore.git--65859100913919148/Sources/Core.swift": [553277532, 0]

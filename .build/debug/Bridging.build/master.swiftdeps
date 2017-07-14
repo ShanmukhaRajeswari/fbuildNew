@@ -1,0 +1,8 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "a0fb329b9d1ba7056e93f17f32ea7523"
+build_time: [553277534, 668918000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/FoundationAdapterLinux.swift": [553277533, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/Bridging.swift": [553277533, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/FoundationAdapterProtocol.swift": [553277533, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/FoundationAdapterNonLinux.swift": [553277533, 0]

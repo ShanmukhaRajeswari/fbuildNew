@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "e4b163cb9892f275ae54897094969489"
+build_time: [553277533, 788928000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-TemplateEngine.git-357693945198035730/Sources/KituraTemplateEngine/TemplateEngine.swift": [553277519, 0]

@@ -1,0 +1,6 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "b39e0c023eded18d2fb5b3e100500725"
+build_time: [553277533, 796595000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/SwiftyJSON.git--2502858249598464909/Source/LclJSONSerialization.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/SwiftyJSON.git--2502858249598464909/Source/SwiftyJSON.swift": [553277518, 0]

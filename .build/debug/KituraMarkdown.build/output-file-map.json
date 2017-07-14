@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMarkdown.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-Markdown--1889999287584208261/Sources/KituraMarkdown/KituraMarkdown.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMarkdown.build/KituraMarkdown.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMarkdown.build/KituraMarkdown.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMarkdown.build/KituraMarkdown~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMarkdown.build/KituraMarkdown.swiftdeps"
+  }
+}

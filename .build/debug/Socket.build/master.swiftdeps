@@ -1,0 +1,7 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "79ff777fea28e15270e4745e322b0eef"
+build_time: [553277533, 783997000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BlueSocket.git--3680657572688872202/Sources/SocketUtils.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BlueSocket.git--3680657572688872202/Sources/Socket.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BlueSocket.git--3680657572688872202/Sources/SocketProtocols.swift": [553277518, 0]

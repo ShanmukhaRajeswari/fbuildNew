@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraStencil.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-StencilTemplateEngine.git-5443261884309281567/Sources/KituraStencilTemplateEngine.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraStencil.build/KituraStencilTemplateEngine.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/KituraStencil.build/KituraStencilTemplateEngine.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/KituraStencil.build/KituraStencilTemplateEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraStencil.build/KituraStencilTemplateEngine.swiftdeps"
+  }
+}

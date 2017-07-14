@@ -1,0 +1,70 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ParsedBody"
+provides-nominal:
+- "O6Kitura10ParsedBody"
+provides-member:
+- ["O6Kitura10ParsedBody", ""]
+depends-top-level:
+- "Data"
+- "JSON"
+- "ParsedBody"
+- "Part"
+- "String"
+depends-member:
+- ["O6Kitura10ParsedBody", "Data"]
+- ["O6Kitura10ParsedBody", "JSON"]
+- ["O6Kitura10ParsedBody", "Part"]
+- ["O6Kitura10ParsedBody", "String"]
+- ["O6Kitura10ParsedBody", "asJSON"]
+- ["O6Kitura10ParsedBody", "asMultiPart"]
+- ["O6Kitura10ParsedBody", "asText"]
+- ["O6Kitura10ParsedBody", "asURLEncoded"]
+- ["O6Kitura10ParsedBody", "json"]
+- ["O6Kitura10ParsedBody", "multipart"]
+- ["O6Kitura10ParsedBody", "raw"]
+- ["O6Kitura10ParsedBody", "text"]
+- ["O6Kitura10ParsedBody", "urlEncoded"]
+depends-nominal:
+- "O6Kitura10ParsedBody"
+depends-dynamic-lookup:
+depends-external:
+- "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/SSLService.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/KituraTemplateEngine.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/Signals.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/KituraNet.swiftmodule"
+- "/home/iiit/Desktop/programs/devika/.build/debug/Socket.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/AssertionReporting.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/SwiftStdbool.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/CEpoll.git-5229717094603679219/shim.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-net.git-1846915712576750465/Sources/CHTTPParser/include/CHTTPParser.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-net.git-1846915712576750465/Sources/CHTTPParser/include/http_parser.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-net.git-1846915712576750465/Sources/CHTTPParser/include/utils.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/LibcShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/FoundationShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/HeapObject.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/RefCount.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/Visibility.h"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/OpenSSL.git-7060173504312001730/module.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/CCurl.git--4003544704590769673/module.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/checkouts/CEpoll.git-5229717094603679219/module.modulemap"
+- "/home/iiit/Desktop/programs/devika/.build/debug/CHTTPParser.build/module.modulemap"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/dispatch/module.modulemap"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/CoreFoundation/module.modulemap"
+- "/home/iiit/Desktop/swift-3.1.1-RELEASE-ubuntu16.04/usr/lib/swift/shims/module.modulemap"
+interface-hash: "5d53dbea8b6ded2e9fafacb82cf9707d"

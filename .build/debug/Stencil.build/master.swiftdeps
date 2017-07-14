@@ -1,0 +1,23 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "00a16ba752cebc89cbfce0a24731f61e"
+build_time: [553277550, 208842000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Errors.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Environment.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/FilterTag.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/IfTag.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Template.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Extension.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/ForTag.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Context.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Node.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Variable.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Include.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/NowTag.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Filters.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Parser.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Lexer.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Loader.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Inheritence.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Tokenizer.swift": [553277519, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Stencil--4897692889813017140/Sources/Expression.swift": [553277519, 0]

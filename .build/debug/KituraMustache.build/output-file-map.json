@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMustache.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-MustacheTemplateEngine.git-3015040867568981603/Sources/KituraMustacheTemplateEngine.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMustache.build/KituraMustacheTemplateEngine.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMustache.build/KituraMustacheTemplateEngine.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMustache.build/KituraMustacheTemplateEngine~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/KituraMustache.build/KituraMustacheTemplateEngine.swiftdeps"
+  }
+}

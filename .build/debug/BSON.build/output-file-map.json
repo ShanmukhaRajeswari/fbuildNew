@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Conversion.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Conversion.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Conversion.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Conversion~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Conversion.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/EmbeddedDocuments.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/EmbeddedDocuments.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/EmbeddedDocuments.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/EmbeddedDocuments~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/EmbeddedDocuments.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Decimal.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Decimal.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Decimal.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Decimal~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Decimal.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/ObjectId.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/ObjectId.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/ObjectId.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/ObjectId~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/ObjectId.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+ParsingSupport.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+ParsingSupport.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+ParsingSupport.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+ParsingSupport~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+ParsingSupport.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Helpers.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Helpers.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Helpers.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Helpers.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Interpreting.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Interpreting.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Interpreting.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Interpreting~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Interpreting.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Index.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Index.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Index.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Index~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Index.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/RegularExpression.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/RegularExpression.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/RegularExpression.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/RegularExpression~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/RegularExpression.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/BSONPrimitive.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/BSONPrimitive.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/BSONPrimitive.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/BSONPrimitive~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/BSONPrimitive.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Optional+BSON.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Optional+BSON.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Optional+BSON.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Optional+BSON~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Optional+BSON.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Flattening.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Flattening.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Flattening.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Flattening~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Flattening.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Validation.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Validation.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Validation.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Validation~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Validation.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Operators.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Operators.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Operators.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Operators~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Operators.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Subscripts.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Subscripts.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Subscripts.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Subscripts~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Document+Subscripts.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Error.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Error.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Error.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Error~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/BSON.build/Error.swiftdeps"
+  }
+}

@@ -1,0 +1,21 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "534fc354898f5946be0fe00153d0999e"
+build_time: [553277541, 305218000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Conversion.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/EmbeddedDocuments.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Decimal.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/ObjectId.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+ParsingSupport.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Helpers.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Interpreting.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Index.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/RegularExpression.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/BSONPrimitive.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Optional+BSON.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Flattening.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Validation.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Operators.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Document+Subscripts.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BSON.git--2418514583636260564/Sources/BSON/Error.swift": [553277518, 0]

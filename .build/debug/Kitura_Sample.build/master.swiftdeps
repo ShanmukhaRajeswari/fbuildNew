@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "107bc32e1277084f201f5259611e356e"
+build_time: [553277574, 451819000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/Sources/Kitura-Sample/main.swift": [553271536, 0]

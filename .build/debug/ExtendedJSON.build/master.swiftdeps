@@ -1,0 +1,7 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "fd3a458255b61da7578ab38da3ede67f"
+build_time: [553277558, 440682000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/ExtendedJSON/ExtendedJSON+EfficientSerialization.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/ExtendedJSON/ExtendedJSON.swift": [553277518, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/ExtendedJSON/ISO8601.swift": [553277518, 0]

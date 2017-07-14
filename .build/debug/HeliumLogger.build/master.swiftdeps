@@ -1,0 +1,6 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "9be455d9544a56aadcd8fee7dac94dee"
+build_time: [553277540, 68701000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/HeliumLogger.git-3799803133784049598/Sources/HeliumLogger/HeliumLogger.swift": [553277531, 0]
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/HeliumLogger.git-3799803133784049598/Sources/HeliumLogger/HeliumStreamLogger.swift": [553277531, 0]

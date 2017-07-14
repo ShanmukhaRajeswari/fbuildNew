@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "8feea1411e77485b6ef4a7fd56d91a50"
+build_time: [553277550, 73886000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Kitura-Markdown--1889999287584208261/Sources/KituraMarkdown/KituraMarkdown.swift": [553277532, 0]

@@ -1,0 +1,71 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/GeoJSONError.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJSONError.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJSONError.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJSONError~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJSONError.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/Polygon.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Polygon.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Polygon.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Polygon~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Polygon.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/MultiLineString.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiLineString.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiLineString.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiLineString~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiLineString.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/CoordinateReferenceSystem.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/CoordinateReferenceSystem.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/CoordinateReferenceSystem.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/CoordinateReferenceSystem~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/CoordinateReferenceSystem.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/Position.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Position.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Position.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Position~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Position.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/MultiPolygon.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPolygon.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPolygon.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPolygon~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPolygon.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/LineString.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/LineString.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/LineString.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/LineString~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/LineString.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/Point.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Point.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Point.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Point~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/Point.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/MultiPoint.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPoint.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPoint.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPoint~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/MultiPoint.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/GeoJsonObjectType.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJsonObjectType.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJsonObjectType.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJsonObjectType~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/GeoJsonObjectType.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/GeoJSON/ValueConvertible.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/ValueConvertible.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/ValueConvertible.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/ValueConvertible~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/GeoJSON.build/ValueConvertible.swiftdeps"
+  }
+}

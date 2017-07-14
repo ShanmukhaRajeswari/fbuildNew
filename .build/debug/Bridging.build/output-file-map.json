@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/FoundationAdapterLinux.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterLinux.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterLinux.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterLinux~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterLinux.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/Bridging.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/Bridging.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/Bridging.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/Bridging~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/Bridging.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/FoundationAdapterProtocol.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterProtocol.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterProtocol.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterProtocol~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterProtocol.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Bridging.git--5247237282234599117/Sources/Bridging/FoundationAdapterNonLinux.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterNonLinux.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterNonLinux.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterNonLinux~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Bridging.build/FoundationAdapterNonLinux.swiftdeps"
+  }
+}

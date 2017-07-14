@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Cheetah.git--6499320123134796779/Sources/Array.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Array.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Array.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Array~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Array.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Cheetah.git--6499320123134796779/Sources/Object.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Object.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Object.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Object~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Object.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Cheetah.git--6499320123134796779/Sources/InternalHelpers.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/InternalHelpers.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/InternalHelpers.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/InternalHelpers~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/InternalHelpers.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Cheetah.git--6499320123134796779/Sources/Helpers.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Helpers.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Helpers.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Helpers.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Cheetah.git--6499320123134796779/Sources/Value.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Value.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Value.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Value~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Value.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/Cheetah.git--6499320123134796779/Sources/Parser.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Parser.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Parser.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/Cheetah.build/Parser.swiftdeps"
+  }
+}

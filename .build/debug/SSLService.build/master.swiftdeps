@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "8cf0ed4a3a6b2863b428a494ecf63e6e"
+build_time: [553277549, 800527000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/BlueSSLService.git-7627101803700081211/Sources/SSLService.swift": [553277532, 0]

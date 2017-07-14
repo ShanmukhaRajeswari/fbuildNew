@@ -1,0 +1,5 @@
+version: "Swift version 3.1.1 (swift-3.1.1-RELEASE)"
+options: "478e61f7546c62e4b8c40aca0b810746"
+build_time: [553278946, 459043000]
+inputs:
+  "/home/iiit/Desktop/programs/devika/Sources/KituraSampleRouter/RouterCreator.swift": [553278716, 0]

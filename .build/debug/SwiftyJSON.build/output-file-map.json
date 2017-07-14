@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/SwiftyJSON.git--2502858249598464909/Source/LclJSONSerialization.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/LclJSONSerialization.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/LclJSONSerialization.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/LclJSONSerialization~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/LclJSONSerialization.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/SwiftyJSON.git--2502858249598464909/Source/SwiftyJSON.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/SwiftyJSON.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/SwiftyJSON.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/SwiftyJSON~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/SwiftyJSON.build/SwiftyJSON.swiftdeps"
+  }
+}

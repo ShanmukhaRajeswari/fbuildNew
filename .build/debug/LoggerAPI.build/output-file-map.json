@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/LoggerAPI.git--4693696810475601384/Sources/LoggerAPI/Logger.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.build/Logger.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.build/Logger.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/LoggerAPI.build/Logger.swiftdeps"
+  }
+}

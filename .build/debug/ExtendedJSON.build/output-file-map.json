@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/master.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/ExtendedJSON/ExtendedJSON+EfficientSerialization.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON+EfficientSerialization.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON+EfficientSerialization.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON+EfficientSerialization~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON+EfficientSerialization.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/ExtendedJSON/ExtendedJSON.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ExtendedJSON.swiftdeps"
+  },
+  "/home/iiit/Desktop/programs/devika/.build/checkouts/MongoKitten.git-1801745446079115802/Sources/ExtendedJSON/ISO8601.swift": {
+    "dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ISO8601.d",
+    "object": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ISO8601.swift.o",
+    "swiftmodule": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ISO8601~partial.swiftmodule",
+    "swift-dependencies": "/home/iiit/Desktop/programs/devika/.build/debug/ExtendedJSON.build/ISO8601.swiftdeps"
+  }
+}
